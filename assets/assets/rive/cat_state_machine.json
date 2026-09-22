@@ -1,0 +1,37 @@
+{
+  "artboard": "Cat",
+  "stateMachine": "CatStateMachine",
+  "booleans": [
+    "isSleeping",
+    "isListening",
+    "isHappy",
+    "isSad",
+    "isAngry",
+    "isPlayful",
+    "isRelaxed",
+    "isFocused"
+  ],
+  "triggers": [
+    "touchHead",
+    "touchBody",
+    "touchTail",
+    "touchNose",
+    "pet",
+    "tap",
+    "wake",
+    "sleep",
+    "startPurr",
+    "stopPurr",
+    "surprise",
+    "play"
+  ],
+  "numbers": [
+    "energy",
+    "mood",
+    "stress",
+    "attention",
+    "eyeTargetX",
+    "eyeTargetY",
+    "breathingIntensity"
+  ]
+}
